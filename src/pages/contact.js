@@ -3,7 +3,8 @@ import HeaderOne from "../common/header/HeaderOne";
 import Breadcrumb from "../common/breadcrumb/Breadcrumb";
 import QuoteFormOne from "../components/quote-form/QuoteFormOne";
 import ContactMap from "../components/contact/ContactMap";
-import FooterThree from "../common/footer/FooterThree";
+// import FooterThree from "../common/footer/FooterThree";
+import FooterOne from "@/common/footer/FooterOne";
 
 export default function ContactPage() {
 	return (
@@ -15,8 +16,8 @@ export default function ContactPage() {
                 currentPage="Contact Us" 
             />
 			<QuoteFormOne />
-			<ContactMap />
-			<FooterThree />
+			{/* <ContactMap /> */}
+			<FooterOne />
 		</>
 	);
 }

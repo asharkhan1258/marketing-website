@@ -22,14 +22,6 @@ const menu_data = [
     id: 4,
     mega_menu: false,
     has_dropdown: false,
-    title: "Add To Card",
-    link: "#",
-    
-  },
-  {
-    id: 5,
-    mega_menu: false,
-    has_dropdown: false,
     title: "Contact",
     link: "/contact",
   },

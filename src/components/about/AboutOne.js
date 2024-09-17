@@ -36,7 +36,7 @@ const AboutOne = () => {
                           <span>Search Engine</span>
                         </button>
                       </li>
-                      <li className="nav-item" role="presentation">
+                      {/* <li className="nav-item" role="presentation">
                         <button
                           className="nav-link"
                           id="pills-analytics-tab"
@@ -59,8 +59,8 @@ const AboutOne = () => {
                           />
                           <span>Analytics</span>
                         </button>
-                      </li>
-                      <li className="nav-item" role="presentation">
+                      </li> */}
+                      {/* <li className="nav-item" role="presentation">
                         <button
                           className="nav-link"
                           id="pills-social-tab"
@@ -107,8 +107,8 @@ const AboutOne = () => {
                           />
                           <span>Content Marketing</span>
                         </button>
-                      </li>
-                      <li className="nav-item" role="presentation">
+                      </li> */}
+                      {/* <li className="nav-item" role="presentation">
                         <button
                           className="nav-link"
                           id="pills-management-tab"
@@ -155,7 +155,7 @@ const AboutOne = () => {
                           />
                           <span>Optimization</span>
                         </button>
-                      </li>
+                      </li> */}
                       <li className="nav-item" role="presentation">
                         <button
                           className="nav-link"
@@ -177,7 +177,7 @@ const AboutOne = () => {
                             className="active-tab-icon"
                             alt="icon"
                           />
-                          <span>Digital Marketing</span>
+                          <span>Digital Googls Ads Marketing</span>
                         </button>
                       </li>
                     </ul>
@@ -565,22 +565,21 @@ const AboutOne = () => {
                           <div className="row">
                             <div className="col-xxl-6 col-xl-7 col-lg-6 col-md-12 col-sm-12">
                               <div className="about-three__single-content">
-                                <h2> Comprehensive Digital Marketing</h2>
+                                <h2> Comprehensive Google Ads Marketing</h2>
                                 <div className="list">
                                   <ul className="list-unstyled">
                                     <li>
-                                      Achieve your business goals with our
-                                      full-spectrum marketing solutions.
+                                    We take the time to understand your business goals, competition, and target market.
                                     </li>
                                     <li>
-                                      We offer SEO, social media, content, and
-                                      more to drive traffic and growth.
+                                    Based on your needs, we develop a tailored Google Ads strategy to generate leads and conversions.
                                     </li>
                                     <li>
-                                      Our customized strategies fuel engagement
-                                      and long-term success.
+                                    Our team sets up and manages your campaigns to ensure optimal performance and continuous improvement.
                                     </li>
-                                   
+                                   <li>
+                                   Ongoing Optimization We monitor performance, analyze data, and adjust strategies to achieve the best possible outcomes.
+                                   </li>
                                   </ul>
                                 </div>
                               </div>

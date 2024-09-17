@@ -30,15 +30,8 @@ const HeroOne = () => {
                                             </defs>
                                             </svg>
                                         </span>
-                                        <br /> SEO Solution.</h2>
-                                    <p>Maecenas egret risks qualm Cohabiter diapaus magna egret vehicular <br /> pellentesque lobortis iaculis felis viverra sit amet.</p>
-                                    <form action="#">
-                                        <div className="hero__input">
-                                            <i className="fa-regular fa-magnifying-glass"></i>
-                                            <input type="text" placeholder="Analyze any website or app" />
-                                            <button type="submit" className="hero-btn-1 rr-btn-style-1">Search</button>
-                                        </div>
-                                    </form>
+                                        <br /> Google Ads Solution.</h2>
+                                    <p> Unlock Business Growth with Expert Google Ads Management</p>
                                     <div className="hero-popular-search">
                                         <span>Popular:</span>
                                         <ul>
@@ -46,11 +39,7 @@ const HeroOne = () => {
                                                 <a href="#">
                                                     <img src="/assets/img/icon/google.svg" alt="google icon" /> Google.com
                                                 </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"><img src="/assets/img/icon/facebook-two.svg" alt="facebook icon" />Facebook.com</a>
-                                            </li>
-                                            
+                                            </li>                     
                                         </ul>
                                     </div>
                                 </div>

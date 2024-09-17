@@ -31,10 +31,6 @@ const HeaderOne = () => {
                       </nav>
                     </div>
                     <div className="header__main-right">
-                      <div className="user-login d-xxl-block d-xxl-block d-lg-block d-md-block d-none">
-                        <i className="fa-regular fa-user"></i>
-                        <Link href="/login">Login</Link>
-                      </div>
                       <Link
                         href="/contact"
                         className="header-btn-1 rr-btn-style-1 d-xxl-block d-xxl-block d-lg-block d-md-block d-none"

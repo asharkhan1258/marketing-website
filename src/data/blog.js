@@ -7,7 +7,7 @@ export const BlogOneData = [
         date: "March 24,2023",
         heading: "Trends to Watch Staying Ahead in the Ever-Changing Digital Landscape.",
         link_text: "Read More",
-        link: "/blog-details",
+        link: "#",
         delay: ".3s",
     },
     {
@@ -17,7 +17,7 @@ export const BlogOneData = [
         date: "June 23,2023",
         heading: "The Art of Crafting Your Digital Footprint Maximum Visibility.",
         link_text: "Read More",
-        link: "/blog-details",
+        link: "#",
         delay: ".5s",
     },
     {
@@ -27,7 +27,7 @@ export const BlogOneData = [
         date: "August 18,2023",
         heading: "Success Stories Real-Life Examples of Triumphing in the Online World.",
         link_text: "Read More",
-        link: "/blog-details",
+        link: "#",
         delay: ".7s",
     },
 ];
@@ -36,24 +36,24 @@ export const BlogOneData = [
 export const BlogTwoData = [
     {
         id: 1,
-        date: "March 25,2023",
-        heading: "Local SEO Checklist Steps Optimize Your Business Local For Searches.",
+        date: "",
+        heading: "Maximize your ROI and drive targeted traffic with custom-tailored Google Ads strategies designed to grow your business.",
         link_text: "Learn More",
-        link: "/blog-details",
+        link: "#",
     },
     {
         id: 2,
-        date: "March 25,2023",
-        heading: "The Role of SEO in Brand Building and Online Business Reputation.",
+        date: "",
+        heading: "we specialize in delivering data-driven Google Ads campaigns that put your brand in front of the right audience at the right time.we work with you to create a strategy that fits your budget, targets your ideal customers",
         link_text: "Learn More",
-        link: "/blog-details",
+        link: "#",
     },
     {
         id: 3,
-        date: "March 25,2023",
-        heading: "SEO Content Marketing and Creating Valuable Content Searchable.",
+        date: "",
+        heading: "We take the time to understand your business goals, competition, and target market.",
         link_text: "Learn More",
-        link: "/blog-details",
+        link: "#",
     },
 ];
 
@@ -67,7 +67,7 @@ export const BlogThreeData = [
         date: "July 23, 2023",
         category_text: "Blog",
         category_link: "/",
-        link: "/blog-details",
+        link: "#",
         delay: ".3s",
     },
     {
@@ -78,7 +78,7 @@ export const BlogThreeData = [
         date: "Jun 16, 2023",
         category_text: "Blog",
         category_link: "/",
-        link: "/blog-details",
+        link: "#",
         delay: ".5s",
     },
     {
@@ -89,7 +89,7 @@ export const BlogThreeData = [
         date: "April 24, 2023",
         category_text: "Blog",
         category_link: "/",
-        link: "/blog-details",
+        link: "#",
         delay: ".7s",
     },
 ];
@@ -103,7 +103,7 @@ export const BlogFourData = [
         heading: "Expert Tips and Insights Outrank Your Competitors.",
         category: "Blog",
         date: "August 18,2023",
-        link: "/blog-details",
+        link: "#",
         delay: ".3s",
     },
     {
@@ -113,7 +113,7 @@ export const BlogFourData = [
         heading: "Crafting a Winning Strategy for Digital Growth.",
         category: "Blog",
         date: "August 18,2023",
-        link: "/blog-details",
+        link: "#",
         delay: ".5s",
     },
     {
@@ -123,7 +123,7 @@ export const BlogFourData = [
         heading: "Winning Strategies for Dominating Search Results.",
         category: "Blog",
         date: "August 18,2023",
-        link: "/blog-details",
+        link: "#",
         delay: ".7s",
     },
 ];

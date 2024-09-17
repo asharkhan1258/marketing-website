@@ -2,9 +2,10 @@ import SEO from "../common/seo/Seo";
 import HeaderOne from "../common/header/HeaderOne";
 import AboutThree from "../components/about/AboutThree";
 import SkillsOne from "../components/skills/SkillsOne";
-import TestimonialSix from "../components/testimonial/TestimonialSix";
+// import TestimonialSix from "../components/testimonial/TestimonialSix";
 import IntegrationsOne from "../components/integrations/IntegrationsOne";
-import FooterThree from "../common/footer/FooterThree";
+// import FooterThree from "../common/footer/FooterThree";
+import FooterOne from "@/common/footer/FooterOne";
 
 export default function AboutPage() {
 	return (
@@ -13,9 +14,9 @@ export default function AboutPage() {
 			<HeaderOne />
 			<AboutThree />
 			<SkillsOne />
-			<TestimonialSix />
+			{/* <TestimonialSix /> */}
 			<IntegrationsOne />
-			<FooterThree />
+			<FooterOne />
 		</>
 	);
 }

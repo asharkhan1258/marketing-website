@@ -75,7 +75,7 @@ const SkillsOne = () => {
                                     </div>
                                 </div>
                                 <div className="skill-one__progress-single">
-                                    <h4 className="skill-one__progress-title">SEO Audit</h4>
+                                    <h4 className="skill-one__progress-title">Google Ads Marketing</h4>
                                     <div className="bar">
                                         <div className="bar-inner bar-bg-2 count-bar counted" data-percent="95%">
                                             <div className="count-text">95%</div>
@@ -91,7 +91,6 @@ const SkillsOne = () => {
                                     </div>
                                 </div>
                             </div>
-                            <Link href="/" className="thm-btn-2 rr-bounce-up mt-55 wow fadeInUp" data-wow-delay=".9s">Analyze Your Site</Link>
                         </div>
                     </div>
                 </div>

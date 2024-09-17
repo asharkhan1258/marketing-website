@@ -39,8 +39,8 @@ const AboutThree = () => {
                             <div className="about-one__right wow fadeInUp" data-wow-delay=".5s">
                                 <div className="about-one__right-content">
                                     <span>About Us</span>
-                                    <h2 className="section-title__one-title">Empowering Brands Online Our SEO Legacy and Commitment.</h2>
-                                    <p>Etiam in elit non sem mollis luctus. Suspendisse egestas rutrum massa, accumsan pretium tortor Nullam enim ex, facilisis sit amet finibus vitae, volutpat eget lacus.</p>
+                                    <h2 className="section-title__one-title">We Drive Growth Through Data-Driven Google Ads Strategies</h2>
+                                    <p>Welcome to Thesalepoint, where we specialize in helping businesses grow by leveraging the power of Google Ads. Our goal is simple: to drive more traffic, generate quality leads, and deliver measurable results through expertly crafted PPC (Pay-Per-Click) campaigns.</p>
                                 </div>
                                 <div className="about-one__counter">
                                     <div className="row">
@@ -48,7 +48,7 @@ const AboutThree = () => {
                                             <div className="counter-two__single">
                                                 <div className="counter-two__single-inner">
                                                     <div className="text-box">
-                                                        <h3 className="counter">13</h3>
+                                                        <h3 className="counter">5</h3>
                                                         <span className="counter-two__letter">+</span>
                                                         <p className="counter-two__text">Year of Experiences</p>
                                                     </div>
@@ -59,7 +59,7 @@ const AboutThree = () => {
                                             <div className="counter-two__single">
                                                 <div className="counter-two__single-inner">
                                                     <div className="text-box">
-                                                        <h3 className="counter">4</h3>
+                                                        <h3 className="counter">3</h3>
                                                         <span className="counter-two__letter">K+</span>
                                                         <p className="counter-two__text">Satisfied Customers</p>
                                                     </div>

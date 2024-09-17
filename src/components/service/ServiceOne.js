@@ -19,16 +19,11 @@ const ServiceOne = () => {
                                 <div className="service-one__icon bg-1 mb-30">
                                     <img src="/assets/img/icon/mike.png" alt="img" />
                                 </div>
-                                <h3 className="mb-35">Digital Research</h3>
+                                <h3 className="mb-35">Google Ads Campaign Management</h3>
                                 <ul>
-                                    <li><i className="fa-light fa-check"></i>Benchmarking</li>
-                                    <li><i className="fa-light fa-check"></i>Website & app analysis</li>
-                                    <li><i className="fa-light fa-check"></i>Industry research</li>
+                                    <li><i className="fa-light fa-check"></i>Tailored campaigns optimized for performance, including keyword research, ad copywriting, and bid management.</li>
                                     <li><i className="fa-light fa-check"></i>Audience research</li>
                                 </ul>
-                                <div className="service-one__btn mt-50">
-                                    <Link href="/service-details" className="rr-bounce-up">Learn More</Link>
-                                </div>
                             </div>
                         </div>
                         <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay=".5s">
@@ -36,16 +31,13 @@ const ServiceOne = () => {
                                 <div className="service-one__icon bg-2 mb-30">
                                     <img src="/assets/img/icon/mike.png" alt="img" />
                                 </div>
-                                <h3 className="mb-35">Digital Marketing</h3>
+                                <h3 className="mb-35">PPC Strategy Development</h3>
                                 <ul>
-                                    <li><i className="fa-light fa-check"></i>Benchmarking</li>
+                                    <li><i className="fa-light fa-check"></i>We develop a clear strategy focused on maximizing clicks, minimizing cost-per-click (CPC), and ensuring a strong return on investment (ROI).</li>
                                     <li><i className="fa-light fa-check"></i>Website & app analysis</li>
                                     <li><i className="fa-light fa-check"></i>Industry research</li>
                                     <li><i className="fa-light fa-check"></i>Audience research</li>
                                 </ul>
-                                <div className="service-one__btn mt-50">
-                                    <Link href="/service-details" className="rr-bounce-up">Learn More</Link>
-                                </div>
                             </div>
                         </div>
                         <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay=".7s">
@@ -53,16 +45,13 @@ const ServiceOne = () => {
                                 <div className="service-one__icon bg-3 mb-30">
                                     <img src="/assets/img/icon/mike.png" alt="img" />
                                 </div>
-                                <h3 className="mb-35">Shopper Intelligence</h3>
+                                <h3 className="mb-35">Keyword Research & Targeting</h3>
                                 <ul>
-                                    <li><i className="fa-light fa-check"></i>Benchmarking</li>
+                                    <li><i className="fa-light fa-check"></i>Comprehensive research to identify high-performing keywords relevant to your business, industry, and target audience.</li>
                                     <li><i className="fa-light fa-check"></i>Website & app analysis</li>
                                     <li><i className="fa-light fa-check"></i>Industry research</li>
                                     <li><i className="fa-light fa-check"></i>Audience research</li>
                                 </ul>
-                                <div className="service-one__btn mt-50">
-                                    <Link href="/service-details" className="rr-bounce-up">Learn More</Link>
-                                </div>
                             </div>
                         </div>
                         <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay=".9s">
@@ -70,16 +59,10 @@ const ServiceOne = () => {
                                 <div className="service-one__icon bg-4 mb-30">
                                     <img src="/assets/img/icon/mike.png" alt="img" />
                                 </div>
-                                <h3 className="mb-35">Stock Intelligence</h3>
+                                <h3 className="mb-35">Conversion Rate Optimization</h3>
                                 <ul>
-                                    <li><i className="fa-light fa-check"></i>Benchmarking</li>
-                                    <li><i className="fa-light fa-check"></i>Website & app analysis</li>
-                                    <li><i className="fa-light fa-check"></i>Industry research</li>
-                                    <li><i className="fa-light fa-check"></i>Audience research</li>
+                                    <li><i className="fa-light fa-check"></i>Not only do we drive traffic, but we also optimize your landing pages to ensure visitors turn into customers.</li>
                                 </ul>
-                                <div className="service-one__btn mt-50">
-                                    <Link href="/service-details" className="rr-bounce-up">Learn More</Link>
-                                </div>
                             </div>
                         </div>
                         <div className="col-xl-12">
