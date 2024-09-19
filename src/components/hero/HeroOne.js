@@ -32,16 +32,6 @@ const HeroOne = () => {
                                         </span>
                                         <br /> Google Ads Solution.</h2>
                                     <p> Unlock Business Growth with Expert Google Ads Management</p>
-                                    <div className="hero-popular-search">
-                                        <span>Popular:</span>
-                                        <ul>
-                                            <li>
-                                                <a href="#">
-                                                    <img src="/assets/img/icon/google.svg" alt="google icon" /> Google.com
-                                                </a>
-                                            </li>                     
-                                        </ul>
-                                    </div>
                                 </div>
                             </div>
                         </div>

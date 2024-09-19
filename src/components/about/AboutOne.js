@@ -180,6 +180,30 @@ const AboutOne = () => {
                           <span>Digital Googls Ads Marketing</span>
                         </button>
                       </li>
+                      <li className="nav-item" role="presentation">
+                      <button
+                          className="nav-link"
+                          id="pills-optimization-tab"
+                          data-bs-toggle="pill"
+                          data-bs-target="#pills-optimization"
+                          type="button"
+                          role="tab"
+                          aria-controls="pills-optimization"
+                          aria-selected="false"
+                        >
+                          <img
+                            src="/assets/img/icon/keyboard-open.svg"
+                            className="no-active"
+                            alt="icon"
+                          />
+                          <img
+                            src="/assets/img/icon/keyboard-open-white.svg"
+                            className="active-tab-icon"
+                            alt="icon"
+                          />
+                          <span>Meta Ads Marketing</span>
+                        </button>
+                      </li>
                     </ul>
                     <div className="tab-content" id="pills-tabContent">
                       <div
@@ -506,20 +530,17 @@ const AboutOne = () => {
                           <div className="row">
                             <div className="col-xxl-6 col-xl-7 col-lg-6 col-md-12 col-sm-12">
                               <div className="about-three__single-content">
-                                <h2>Website Optimization</h2>
+                                <h2>Meta Ads Marketing</h2>
                                 <div className="list">
                                   <ul className="list-unstyled">
                                     <li>
-                                      Improve your site’s performance with
-                                      enhanced optimization services.
+                                    Utilize Meta's (Facebook and Instagram) advanced targeting options, including demographics, interests, behaviors, and custom audiences, to reach the most relevant audience for your business.
                                     </li>
                                     <li>
-                                      We focus on user experience, speed, and
-                                      mobile responsiveness.
+                                    Maximize your ad budget with effective campaign strategies like split testing, lookalike audiences, and campaign budget optimization (CBO) to ensure you're getting the best ROI.
                                     </li>
                                     <li>
-                                      This ensures your website functions
-                                      smoothly and attracts visitors.
+                                    Offer a variety of ad formats such as carousel ads, video ads, collection ads, and dynamic ads to engage users across Meta platforms.
                                     </li>
                                   </ul>
                                 </div>
